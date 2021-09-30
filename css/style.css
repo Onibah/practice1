@@ -1,0 +1,275 @@
+/* &display=swap&subset=cyrillic-ext */
+
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap");
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:300,500,600&display=swap");
+
+/* ОБНУЛЕНИЕ СТИЛЕЙ */
+*,
+*::before,
+*::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+html,
+body {
+	height: 100%;
+}
+html {
+	font-size: 16px; /* по умолчанию */
+}
+body {
+	line-height: 1;
+}
+.wrapper {
+	overflow: hidden;
+	min-height: 100%;
+	background-color: #f5f5f5;
+}
+
+/* ------------------------------ */
+
+.conteiner {
+	background-color: #ffffff;
+	max-width: 1039px;
+	margin: 0px auto 0px auto;
+	padding: 30px 87px 0px 87px;
+}
+
+body {
+	font-family: "Roboto", sans-serif;
+	color: #4b4b4b;
+}
+
+.header {
+	width: 583px;
+	height: 134px;
+	margin: 0px 0px 36px 0px;
+}
+
+.titleone {
+	margin: 0px 0px 33px 0px;
+	width: 436px;
+	height: 17px;
+}
+.icon {
+	width: 26px;
+	height: 26px;
+	margin: 0px 16px 0px 0px;
+}
+.titletop {
+	font-size: 12px;
+	display: inline-block;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 2.5px;
+}
+
+.titlenemo {
+	font-weight: 900;
+	width: 583px;
+	height: 84px;
+	margin: 0px 0px 0px 0px;
+	font-size: 36px;
+	line-height: 42px;
+	color: #02133c;
+}
+
+.conentnemo {
+	width: 847px;
+	height: 76px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 24px;
+	letter-spacing: 0.15px;
+	margin: 0px 0px 54px 0px;
+}
+
+.motor {
+	width: 846px;
+	height: 420px;
+	margin: 0px 0px 30px 0px;
+}
+/* .................................................................................. */
+.conteinertwo {
+	margin: 0px 0px 80px 0px;
+	background-color: #f5f5f5;
+}
+
+.conteinermulti {
+	background-color: #ffffff;
+	width: 324px;
+	height: 340px;
+	padding: 50px 44px 50px 43px;
+	box-shadow: 0px 8px 16px 0px #262626;
+	margin: 0px 0px 34px 0px;
+}
+.conteinermulti:hover {
+	box-shadow: 0px 16px 24px 0px #262626;
+}
+.multi {
+	width: 237px;
+	height: 240px;
+	text-align: center;
+}
+.carbay {
+	width: 63px;
+	height: 63px;
+	margin: 0px 0px 33px 0px;
+}
+.titlemulti {
+	width: 237px;
+	height: 26px;
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	color: #02133c;
+	margin: 0px 0px 20px 0px;
+}
+.contentmulti {
+	width: 235px;
+	height: 99px;
+	font-weight: 400;
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 0.15px;
+}
+/* ......................................... */
+.conteinertires {
+	background-color: #ffffff;
+	width: 324px;
+	height: 340px;
+	padding: 50px 44px 50px 43px;
+	box-shadow: 0px 8px 16px 0px #262626;
+}
+.conteinertires:hover {
+	box-shadow: 0px 16px 24px 0px #262626;
+}
+.tires {
+	width: 237px;
+	height: 240px;
+	text-align: center;
+}
+.cartires {
+	width: 63px;
+	height: 63px;
+	margin: 0px 0px 33px 0px;
+}
+.titletires {
+	width: 237px;
+	height: 26px;
+	font-weight: 900;
+	font-size: 19px;
+	line-height: 26px;
+	color: #02133c;
+	margin: 0px 0px 20px 0px;
+}
+.contenttires {
+	width: 235px;
+	height: 99px;
+	font-weight: 400;
+	line-height: 24px;
+	font-size: 16px;
+	letter-spacing: 0.15px;
+}
+/* .......................................................................... */
+
+.conteinerthree {
+	font-family: Poppins, sans-serif;
+	color: #000;
+}
+.titleshop {
+	width: 1039px;
+	height: 48px;
+	font-weight: 600;
+	font-size: 32px;
+	line-height: 48px;
+	margin: 0px 0px 26px 0px;
+}
+.titlegeneral {
+	width: 866px;
+	height: 36px;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 36px;
+	margin: 0px 0px 19px 0px;
+}
+.conteinerthreecontent {
+	padding: 40px 0px 40px 0px;
+}
+
+.titleconteinerthreecontent {
+	font-weight: 600;
+	font-size: 16px;
+	margin: 0px 0px 30px 0px;
+}
+.conentshop {
+	font-weight: 300;
+	font-size: 16px;
+	margin: 0px 0px 30px 0px;
+	line-height: 26px;
+}
+.item {
+	font-weight: 300;
+	font-size: 16px;
+	margin: 0px 0px 30px 0px;
+	line-height: 26px;
+}
+/* ....................................................................................... */
+
+.footer {
+	color: #000;
+}
+
+.form {
+	background-color: #0156ff;
+	width: 50px;
+	height: 50px;
+	border-radius: 40px 40px 40px 0px;
+	margin: 0px 0px 9px 0px;
+}
+.star {
+	width: 21.61px;
+	height: 20.56px;
+	margin: 15px 14.38px 14px 14.44px;
+}
+
+.titlebottom {
+	width: 465px;
+	height: 116px;
+	font-weight: 500;
+	font-size: 44px;
+	line-height: 58.3px;
+	margin: 0px 0px 25px 0px;
+}
+.textfooter {
+	width: 386px;
+	height: 207px;
+	font-weight: 300;
+	font-size: 18px;
+	line-height: 26px;
+}
